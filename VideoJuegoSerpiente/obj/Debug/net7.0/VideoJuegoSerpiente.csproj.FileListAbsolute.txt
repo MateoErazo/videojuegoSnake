@@ -1,0 +1,15 @@
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\bin\Debug\net7.0\VideoJuegoSerpiente.exe
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\bin\Debug\net7.0\VideoJuegoSerpiente.deps.json
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\bin\Debug\net7.0\VideoJuegoSerpiente.runtimeconfig.json
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\bin\Debug\net7.0\VideoJuegoSerpiente.dll
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\bin\Debug\net7.0\VideoJuegoSerpiente.pdb
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.csproj.AssemblyReference.cache
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.AssemblyInfoInputs.cache
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.AssemblyInfo.cs
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.csproj.CoreCompileInputs.cache
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.dll
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\refint\VideoJuegoSerpiente.dll
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.pdb
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\VideoJuegoSerpiente.genruntimeconfig.cache
+C:\Users\erazo\OneDrive\Escritorio\VideoJuegoSerpiente\VideoJuegoSerpiente\obj\Debug\net7.0\ref\VideoJuegoSerpiente.dll
